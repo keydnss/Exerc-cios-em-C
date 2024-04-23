@@ -1,6 +1,6 @@
 /*
 
-   1. Implemente um alguritmo que receba um número inteiro e imprima seu sucessor e o antecessor de um número
+   2. Implemente um algoritmo que receba um nÃºmero inteiro e imprima o seu sucessor e antecessor.
 
 */
 

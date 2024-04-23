@@ -1,10 +1,8 @@
 /*
-   1. Implemente um Algoritmo que Dado um número inteiro no formato CDU(Centena, 
-Dezena e Unidade), exibir o número no formato UDC(Unidade, Dezena e Centena). 
+   1. Implemente um Algoritmo que Dado um nÃºmero inteiro no formato CDU(Centena, Dezena e Unidade), exibir o nÃºmero no formato UDC(Unidade, Dezena e Centena). 
+Exemplo: 123, serÃ¡ 321.
 
-Exemplo: 123, será 321.
-
-O número deverá ser atribuído a uma variável antes de ser exibido.
+O nÃºmero deverÃ¡ ser atribuÃ­do a uma variÃ¡vel antes de ser exibido.
 
 */
 	#include <stdio.h>

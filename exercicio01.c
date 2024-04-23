@@ -5,7 +5,7 @@ Exemplo: 123, será 321.
 O número deverá ser atribuído a uma variável antes de ser exibido.
 
 */
-	#include <stdio.h>
+#include <stdio.h>
 
 	int numeroCDU, numeroUDC, centena, dezena, unidade;
 	

@@ -1,6 +1,6 @@
 /*
-
-Construa uma algoritmo que tenha como dados de entrada o sexo e a altura de uma pessoa
+    
+    5.Construa uma algoritmo que tenha como dados de entrada o sexo e a altura de uma pessoa
 (M-masculino e F-feminino), e calcule seu peso ideal, utilizando as seguintes fórmulas:
     -Para homens: (72.7*h) – 58, onde h é altura
     -Para mulheres: (62.1*h) - 44.7

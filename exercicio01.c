@@ -9,8 +9,7 @@ O número deverá ser atribuído a uma variável antes de ser exibido.
 
 	int numeroCDU, numeroUDC, centena, dezena, unidade;
 	
-	int main()
-	{
+	int main(){
 		
 		printf("Insira um numero de 3 algarismos no formato CDU!\n");
 		scanf("%d", &numeroCDU);

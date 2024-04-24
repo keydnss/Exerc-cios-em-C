@@ -26,5 +26,5 @@ idade imprimir (“Você é menor de idade”), se não (“Você é maior de id
 			{
 			printf("Voce e maior de idade");
 			}
-	
-}
+		
+	}

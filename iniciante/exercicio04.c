@@ -1,6 +1,6 @@
 /* 
 
-Implemente um algoritmo que receba um número inteiro e identifique se ele é múltiplo de
+    4.Implemente um algoritmo que receba um número inteiro e identifique se ele é múltiplo de
 2, 3 ou 5, imprima o resultado.
 
 */

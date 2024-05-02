@@ -1,5 +1,5 @@
 /* 
-    Implemente um algoritmo que imprima uma sequencia numérica de 0 500, utilizando a estrutura FOR e WHILE.
+    6. Implemente um algoritmo que imprima uma sequencia numÃ©rica de 0 500, utilizando a estrutura FOR e WHILE.
 */
 
 #include <stdio.h>

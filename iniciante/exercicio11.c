@@ -1,5 +1,5 @@
 /*
-	 10. Implemente um algoritmo que seja capaz de imprimir os mútiplos de 3 existentes entre 0 e 150.
+	 11.	Implemente um algoritmo que seja capaz de imprimir os mÃºtiplos de 3 existentes entre 0 e 150.
 */
 
 #include <stdio.h>
